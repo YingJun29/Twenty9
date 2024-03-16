@@ -73,7 +73,12 @@ body {
   border: 6px solid #fff;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
-
+.about h1 {
+  font-size: xxx-large;
+}
+.about h2 {
+  font-size: x-large;
+}
 .about h1 i {
   color: #3d5afe;
 }
