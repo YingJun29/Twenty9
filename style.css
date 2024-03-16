@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
-
+/* 
 *:focus {
   outline: 1px solid #3d5afe;
   color: #3d5afe !important;
@@ -15,7 +15,7 @@
 *::-webkit-scrollbar-thumb {
   background: #c5cae9;
   border-radius: 160px;
-}
+} */
 
 a {
   text-decoration: none;
